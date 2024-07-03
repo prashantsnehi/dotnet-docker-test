@@ -1,0 +1,9 @@
+
+transID::96jVo2aWpS14oCo4z1bLKhJHeF5qUvDewQurE5fG1UE= 
+transStatus::h7j5PW0sT2lsnJ/EzipSUA== 
+applicationNo::VrlYdMNvFDMcd65a9e++cg== 
+UTITSLTransID::mup8DeLHW5vva7I+MGXGJg== 
+transAmt::4iWhnr2bOgNHfNXG5yxEGw== 
+
+data before Encryption=transID|TTSI0011720005470&UTITSLTransID|PY0037359128&transAmt|107.00 
+data after Encryption=dpwjZV3wb4mUxK+iBXqcvqCJZWGZXt/RXKh2jL//emvOhFBHKQaXl0uc0DMYlcwvxgbiEZK7XnCa7oOwDe93ATjMBLDUvgcngFqYhuGrw9s= url : https://tsidev.tsiindia.co.in:8003/api/UtiItslPan/UtiVerification?EncData=dpwjZV3wb4mUxK+iBXqcvqCJZWGZXt/RXKh2jL//emvOhFBHKQaXl0uc0DMYlcwvxgbiEZK7XnCa7oOwDe93ATjMBLDUvgcngFqYhuGrw9s=:::::::Exception=javax.net.ssl.SSLException: java.net.SocketException: Connection reset errorMsg=There is some problem. Pls try after sometime.
