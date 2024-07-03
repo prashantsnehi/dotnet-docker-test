@@ -63,3 +63,4 @@ RUN adduser \
 USER appuser
 
 ENTRYPOINT ["dotnet", "myWebApp.dll"]
+
